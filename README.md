@@ -1,9 +1,9 @@
-### Greetings! 👋
+### Greetings!
 
 <h1 align="center">Hi 👋, I'm Brandon Herman</h1>
 <h3 align="center">A developer and student from Southern California at SMU</h3>
 
-- 🔭 I’m currently working finsihing my degree from [Southern Methodist University](www.smu.edu)
+- 🔭 I’m currently working finishing my degree at [Southern Methodist University](www.smu.edu)
 
 - 🌱 I’m currently learning **three.js, full-stack development, etc**
 
