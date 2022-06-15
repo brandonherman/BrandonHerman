@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working finishing my degree at [Southern Methodist University](www.smu.edu)
 
-- 🌱 I’m currently learning **three.js, full-stack development, etc**
+- 🌱 I’m currently learning **lua, three.js, full-stack development, etc**
 
 - My github is available at [https://github.com/BrandonHerman](https://github.com/BrandonHerman)
 
