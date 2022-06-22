@@ -1,23 +1,22 @@
-### Greetings!
 
-<h1 align="center">Hi 👋, I'm Brandon Herman</h1>
+<h1 align="center">Hi, I'm Herman</h1>
 <h3 align="center">A developer and student from Southern California at SMU</h3>
 
-- 🔭 I’m currently working finishing my degree at [Southern Methodist University](www.smu.edu)
+-  I’m currently working finishing my degree at [Southern Methodist University](www.smu.edu)
 
-- 🌱 I’m currently learning **lua, three.js, full-stack development, etc**
+-  I’m currently learning **lua, three.js, full-stack development, etc**
 
 - My github is available at [https://github.com/BrandonHerman](https://github.com/BrandonHerman)
 
-- 📝 I regularly tweet about stuff at [https://twitter.com/determineherman](https://twitter.com/determineherman)
+-  I regularly tweet about stuff at [https://twitter.com/determineherman](https://twitter.com/determineherman)
 
-- 💬 I'm always open to messages via **twitter or email!**
+-  I'm always open to messages via **twitter or email!**
 
-- 📫 How to reach me **brandonherman0202@gmail.com**
+-  How to reach me **brandonherman0202@gmail.com**
 
-- 📄 Resume avaliable upon request [brandonherman0202@gmail.com](brandonherman0202@gmail.com)
+-  Resume avaliable upon request [brandonherman0202@gmail.com](brandonherman0202@gmail.com)
 
-- ⚡ Fun fact **I love learning linux :^)**
+-  Patiently growing obsessed with vim
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
