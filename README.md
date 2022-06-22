@@ -1,16 +1,18 @@
 
-<h1 align="center">Hi, I'm Herman</h1>
-<h3 align="center">A developer and student from Southern California at SMU</h3>
+<h1 align="center">I'm Herman</h1>
+<h3 align="center">Developer from Southern California in Dallas</h3>
 
 -  I’m currently working finishing my degree at [Southern Methodist University](www.smu.edu)
 
--  I’m currently learning **lua, three.js, full-stack development, etc**
+-  I’m currently learning **lua, flutter, three.js & next.js, and more**
 
-- My github is available at [https://github.com/BrandonHerman](https://github.com/BrandonHerman)
+-  I'm *always* learning **full-stack development and new programming concepts**
+
+-  My github is available at [https://github.com/BrandonHerman](https://github.com/BrandonHerman)
 
 -  I regularly tweet about stuff at [https://twitter.com/determineherman](https://twitter.com/determineherman)
 
--  I'm always open to messages via **twitter or email!**
+-  I'm always open to messages via **twitter or email**
 
 -  How to reach me **brandonherman0202@gmail.com**
 
