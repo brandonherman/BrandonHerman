@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Herman</h1>
 <p align="center">
- <img src="https://thumbs.gfycat.com/BonyLittleLadybug-size_restricted.gif"/>
+ <img src="https://thumbs.gfycat.com/BonyLittleLadybug-size_restricted.gif" alt="Rock star DOOMGuy"/>
 </p>
 <h3 align="center">Developer from Southern California in Dallas</h3>
 
