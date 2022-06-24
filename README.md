@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">Developer from Southern California in Dallas</h3>
 
--  I’m currently working finishing my degree at [Southern Methodist University](www.smu.edu)
+-  I’m currently working to finish my degree at [Southern Methodist University](www.smu.edu)
 
 -  I’m currently learning **lua, flutter, three.js & next.js, and more**
 
