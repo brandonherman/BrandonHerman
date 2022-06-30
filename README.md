@@ -15,9 +15,9 @@
 
 -  I regularly tweet about stuff at [https://twitter.com/determineherman](https://twitter.com/determineherman)
 
--  I'm always open to messages via **twitter or email**
+-  I'm always open to messages via **twitter or email** (preferably email)
 
--  How to reach me **brandonherman0202@gmail.com**
+-  How to reach me: **brandonherman0202@gmail.com**
 
 -  Resume avaliable upon request [brandonherman0202@gmail.com](brandonherman0202@gmail.com)
 
