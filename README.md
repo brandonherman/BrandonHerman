@@ -3,19 +3,11 @@
 <p align="center">
  <img src="https://thumbs.gfycat.com/BonyLittleLadybug-size_restricted.gif" alt="Rock star DOOMGuy"/>
 </p>
-<h3 align="center">Developer from Southern California in Dallas</h3>
-
--  I’m currently working to finish my degree at [Southern Methodist University](www.smu.edu)
+<h3 align="center">I code</h3>
 
 -  I’m currently learning **lua, flutter, three.js & next.js, and more**
 
--  I'm *always* learning **full-stack development and new programming concepts**
-
 -  My github is available at [https://github.com/BrandonHerman](https://github.com/BrandonHerman)
-
--  I regularly tweet about stuff at [https://twitter.com/determineherman](https://twitter.com/determineherman)
-
--  I'm always open to messages via **twitter or email** (preferably email)
 
 -  How to reach me: **brandonherman0202@gmail.com**
 
