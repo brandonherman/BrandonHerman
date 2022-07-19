@@ -7,10 +7,6 @@
 
 -  I’m currently learning **lua, flutter, three.js & next.js, and more**
 
--  My github is available at [https://github.com/BrandonHerman](https://github.com/BrandonHerman)
-
--  How to reach me: **brandonherman0202@gmail.com**
-
 -  Resume avaliable upon request [brandonherman0202@gmail.com](brandonherman0202@gmail.com)
 
 -  Patiently growing obsessed with vim
